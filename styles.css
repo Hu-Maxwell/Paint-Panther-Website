@@ -1,4 +1,15 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .title {
     font-size: 2em;
     text-align: center;
+    background-color: gray;
+}
+
+.download-button {
+    text-align: center; 
 }
